@@ -1,9 +1,13 @@
 # Credit-EDA-Case-study
 
-Conducted Exploratory Data Analysis of 10 Lakh+ customer data of a bank, to minimise the risk of losing money while lending to customers. 
+Conducted Exploratory Data Analysis of 10 Lakh+ customer data of a bank, to minimise the risk of losing money while lending to customers.
+
+## Objectives of Case Study
+
+To identify patterns which indicate if a client has difficulty in paying their installments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
 
 
-## Conclusion
+## Conclusion of Case study
 
 1) 92% od people have no payment difficulties whereas 8% has payment difficulties.
 
